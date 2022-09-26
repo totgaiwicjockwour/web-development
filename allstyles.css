@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: rgb(120, 34, 120);
+    text-decoration: wavy;
+}
+body{
+    background-image: url("milk.jpg");
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(221, 133, 70);
+}
+ol{
+    color: rgb(139, 95, 95);
+}
